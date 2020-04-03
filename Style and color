@@ -9,8 +9,8 @@
 	<h4>My Hobbies</h4>
 	<ul>
 		<li style = "color: purple">Playing</li>
-		<li>Reading</li>
-		<li>Sleeping</li>
+		<li style = "color: yellow">Reading</li>
+		<li style = "color: red">Sleeping</li>
 
 </body>
 </html>
