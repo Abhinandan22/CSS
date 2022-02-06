@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Pepcoding HTML</title>
+        <style>
+          
+          button{
+              /*height: 3rem;
+              width: 6rem;*/
+              border: 2px solid red;
+              padding: 2rem;
+              margin: 2rem;
+          }
+         
+        </style>
+    </head>
+    <body>
+        
+            <input type="text"><br>
+            <input type="text"><br>
+       
+
+        <button type="submit">Login</button>
+            
+    </body>
+</html>
