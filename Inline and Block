@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Pepcoding HTML</title>
+        <style>
+          
+          .block{
+              background-color: aqua;
+          }
+
+          .inline{
+              background-color: red;
+          }
+         
+          
+          .inline-block{
+              background-color: yellow;
+              display: inline-block;
+              height: 6rem;
+          }
+         
+          
+         
+        </style>
+    </head>
+    <body>
+        
+            <div class="block">It is a block element</div>
+            <span class="inline">It is an inline element</span>
+            <span class="inline">It is an inline element for learning</span>
+            <div class="block">It is an block element to learn2</div>
+            <span class="inline-block">It is an inline-block element to learn</span>
+            
+    </body>
+</html>
